@@ -131,38 +131,38 @@ Each project is available as a standalone repository. Click the project name abo
 
 ---
 
-## 👨‍💻 About Me
-
-I'm Suhas Arun Abhare, a data-driven professional blending accounting expertise with advanced analytics and visualization. I specialize in Python, SQL, Tableau, and Power BI, and I'm passionate about transforming raw data into compelling stories and strategic decisions.
-
----
-
-## 🚀 Highlights
-
-- 🧠 Tackled real-world SQL challenges with structured problem-solving
-- 📊 Delivered insights through optimized queries and clean data pipelines
-- 🏪 Applied SQL to business scenarios in retail and customer analytics
-
----
-
-## 🔗 Explore More
-
-Each project is available as a standalone repository. Click the project name above to explore the code, queries, and insights.
-
----
-
-
-## 🚀 Highlights
-
-- 📈 Exploratory Data Analysis across diverse industries
-- 🧪 Statistical rigor with hypothesis testing and distribution analysis
-- 🛠️ Feature engineering and preprocessing pipelines
-- 🎯 Actionable insights for business and operational strategy
-
----
 ## 👋 Welcome to My GitHub Profile!
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=suhasabhare.suhasabhare&left_color=blue&right_color=green)
+---
+
+## 👇🏼 Practice FORUMs
+
+Here are some of the platforms where I practice and sharpen my skills:
+
+<p align="center">
+  <a href="https://leetcode.com/suhasabhare" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/suhasabhare750" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  </a>
+  <a href="https://www.interviewbit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/InterviewBit-1F8ACB?style=for-the-badge" alt="InterviewBit" />
+  </a>
+  <a href="https://datalemur.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DataLemur-000000?style=for-the-badge" alt="DataLemur" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -170,17 +170,16 @@ Each project is available as a standalone repository. Click the project name abo
   <tbody>
     <tr>
       <td width="50%" align="center">
-        <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=suhasabhare-data&show_icons=true&theme=radical" alt="Suhas's GitHub Stats" />
         <br />
-        <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=suhasabhare-data&theme=radical" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasabhare-data&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </tbody>
 </table>
-
 ---
 
 ## 🔍 Featured Projects
