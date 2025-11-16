@@ -9,28 +9,43 @@ When I'm not analyzing data, you'll find me exploring new tools, contributing to
 
 ---
 
-## 🧠 My Skills
+## 🛠️ Tools & Languages
+### 📊 Data Analysis & Manipulation
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-2E4053?logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Imbalanced--Learn-FF6F61?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?logo=xgboost&logoColor=white">
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"> 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black"> 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"> 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> 
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"> 
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-web-services&logoColor=white"> 
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> 
+### 📈 **Visualization & Reporting**
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-2E4053?logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">
+</p>
 
-
----
+### ☁️ **Cloud & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-web-services&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+</p>
 
 # 🐍 Python Data Analysis Portfolio
 
 Welcome to my portfolio of Python-based data analysis projects. Each repository showcases the use of powerful libraries and statistical techniques to extract insights, visualize patterns, and support decision-making across diverse domains—from finance and logistics to entertainment and fitness.
 
 ---
-
 ## 🧰 Tools & Libraries Used
 
 - **Core Libraries**: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `SciPy`
@@ -145,19 +160,9 @@ Each project is available as a standalone repository. Click the project name abo
 - 🎯 Actionable insights for business and operational strategy
 
 ---
+## 👋 Welcome to My GitHub Profile!
 
-## 📌 How to Explore
-
-Each project is available as a standalone repository. Click the project name above to dive into the code, visualizations, and insights.
-
----
-
-## 👨‍💻 About Me
-
-I'm Suhas Arun Abhare, an accountant with a passion for data analysis, automation, and technical problem-solving. I specialize in Python, SQL, and Pine Script, and I'm actively building a portfolio that blends statistical rigor with creative insight. Let's connect and collaborate!
-
----
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=suhasabhare.suhasabhare&left_color=blue&right_color=green)
 
 ## 📈 GitHub Stats
 
@@ -199,5 +204,5 @@ I'm Suhas Arun Abhare, an accountant with a passion for data analysis, automatio
 
 <p align="center">
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/suhasabhare" target="_blank">Suhas Abhare</a> &nbsp; • &nbsp;
-  📧 <strong>Email:</strong> johndoe@gmail.com
+  📧 <strong>Email:</strong> suhasabhare@outlook.com
 </p>
