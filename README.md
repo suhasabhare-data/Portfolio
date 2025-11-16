@@ -36,9 +36,10 @@ When I'm not analyzing data, you'll find me exploring new tools, contributing to
 ### ☁️ **Cloud & Databases**
 <p>
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-web-services&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
 # 🐍 Python Data Analysis Portfolio
