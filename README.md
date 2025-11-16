@@ -1,4 +1,7 @@
-# 📊 About Me
+#  Suhas Abhare 
+
+![Untitled design (1)](https://github.com/user-attachments/assets/37756848-558b-4c80-a217-c3d50adc003c)
+
 
 Hi, I'm **Suhas Abhare**, a **data analyst and aspiring data scientist** with a passion for uncovering insights from complex datasets. I specialize in transforming raw data into meaningful stories that drive strategic decisions. With a strong foundation in statistics, machine learning, and data visualization, I thrive on solving real-world problems through data.
 
