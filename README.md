@@ -1,3 +1,5 @@
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+
 #  Suhas Abhare 
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/37756848-558b-4c80-a217-c3d50adc003c)
@@ -181,7 +183,7 @@ Here are some of the platforms where I practice and sharpen my skills:
     </tr>
   </tbody>
 </table>
----
+
 
 ## 🔍 Featured Projects
 
@@ -197,12 +199,10 @@ Here are some of the platforms where I practice and sharpen my skills:
 - **Interactive Retail Dashboard**  
   Designed a Power BI dashboard to visualize KPIs and sales performance.
 
----
-
-
 ## 📬 Connect with Me
 
 <p align="center">
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/suhasabhare" target="_blank">Suhas Abhare</a> &nbsp; • &nbsp;
   📧 <strong>Email:</strong> suhasabhare@outlook.com
 </p>
+</div>
