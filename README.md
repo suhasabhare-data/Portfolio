@@ -165,6 +165,10 @@ Here are some of the platforms where I practice and sharpen my skills:
   <a href="https://datalemur.com/" target="_blank">
     <img src="https://img.shields.io/badge/DataLemur-000000?style=for-the-badge" alt="DataLemur" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/suhasabhau5i" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
 </p>
 
 ## 📈 GitHub Stats
