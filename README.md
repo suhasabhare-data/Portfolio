@@ -70,6 +70,8 @@ Welcome to my portfolio of Python-based data analysis projects. Each repository 
 | [Aerofit Fitness](#) | NumPy, Pandas, Matplotlib, Seaborn, Statistics | EDA, Descriptive Statistics, Probability | Provides insights into fitness product trends using descriptive statistics and probability analysis. |
 | [Netflix OTT](#) | NumPy, Pandas, Matplotlib, Seaborn | Data Cleaning, EDA, Visualization | Analyzes content trends and user behavior on Netflix to uncover streaming patterns and preferences. |
 | [National Park Biodiversity Analysis](#) | NumPy, Pandas, Matplotlib, Seaborn | EDA, Visualization | conservation_status has many missing values. In the species file it was sparse (191 non-null out of 5824), but after merging (because observations.csv contains many rows per species across parks) the count of non-null conservation_status rows changes — be mindful whether you want species-level counts (unique scientific_name) or observation-level counts (rows of merged).Vascular plants dominate the species counts; raw counts can hide relative differences for smaller categories. |
+| [[Generating Word Cloud](https://github.com/suhasabhare-data/Generating-Word-Cloud)](#) | NumPy, Pandas, Matplotlib, Seaborn, SciPy | Data Cleaning, EDA, Visualization, Feature Engineering | Demonstrates handling of new datasets (`new_data`) with preprocessing, exploratory analysis, and visualization to uncover meaningful insights. |
+
 
 ---
 # 📜 SQL Projects Portfolio
