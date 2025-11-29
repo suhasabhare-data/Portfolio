@@ -63,6 +63,7 @@ Welcome to my portfolio of Python-based data analysis projects. Each repository 
 
 | Project | Tools Used | Area of Analysis | Description |
 |--------|-------------|------------------|-------------|
+| [Zomato Data Analysis]([https://github.com/suhasabhare-data/Generating-Word-Cloud](https://github.com/suhasabhare-data/Zomato-Data-Analysis)) | NumPy, Pandas, Matplotlib, Seaborn, SciPy | Data Cleaning, EDA, Visualization, Feature Engineering | Demonstrates handling of new datasets (`new_data`) with preprocessing, exploratory analysis, and visualization to uncover meaningful insights. |
 | [Credit Score](#) | NumPy, Pandas, Matplotlib, Seaborn, Regex, SciPy, Normalization | Data Cleaning, EDA, Visualization, Feature Engineering | Computes a hypothetical credit score using weighted averages, feature selection, and preprocessing. Offers insights for banks and credit companies. |
 | [Delhivery Logistics](#) | NumPy, Pandas, Seaborn, SciPy, Hypothesis Testing, Encoding | EDA, Visualization, Probability & Stats, Feature Engineering | Analyzes ACTUAL vs OSRM time-distance metrics to uncover logistical patterns and improve delivery precision. |
 | [Yulu Bike Rentals](#) | NumPy, Pandas, Seaborn, SciPy, Box-Cox, ANOVA, Chi-Square, T-Test | Data Analysis, Visualization, Hypothesis Testing | Explores customer behavior and rental patterns using statistical tests to inform strategic decisions. |
